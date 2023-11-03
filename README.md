@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-I study computation and policy at the University of Chicago. I'm also a contributor to the Metric Geometry and Gerrymandering Group, where I support research efforts around redristricting and alternative voting systems. You can check them out at [@mggg](https://github.com/mggg). 
+I study computation and policy at the University of Chicago. 
+
+I'm also a contributor to the Metric Geometry and Gerrymandering Group, where I support research efforts around redristricting and alternative voting systems. You can check them out at [@mggg](https://github.com/mggg). 
 <!--
 **jgibson517/jgibson517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
