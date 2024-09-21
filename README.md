@@ -1,9 +1,7 @@
-### Hi there 👋
+computation + policy | [@mggg](https://github.com/mggg) 
 
 
-I study computation and policy at the University of Chicago.
-
-I'm also a contributor to the Metric Geometry and Gerrymandering Group, where I support research efforts around redistricting and alternative voting systems. You can check them out at [@mggg](https://github.com/mggg). 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gibson-17&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gibson-17&redirect=true)
 <!--
 **jgibson517/jgibson517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
