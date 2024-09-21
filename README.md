@@ -1,5 +1,8 @@
-computation + policy | [@mggg](https://github.com/mggg) 
+### Hi, I'm Jack 👋
 
+computation + public policy | [@mggg](https://github.com/mggg) 
+
+--- 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gibson-17&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gibson-17&redirect=true)
 <!--
