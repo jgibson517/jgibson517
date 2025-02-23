@@ -1,8 +1,16 @@
 ### Hi, I'm Jack 👋
 
-computation + public policy | [@mggg](https://github.com/mggg) 
+computation + policy + other stuff (right now basketball)
+
+
+
+currently: [@mn-timberwolves](https://github.com/alleyesnorth)
+
+formerly: [@mggg](https://github.com/mggg), [@uchicago-cs](http://cs.uchicago.edu/), [@capp](https://capp.uchicago.edu/) 
 
 --- 
+
+most likley have headphones in, here's what i'm listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gibson-17&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gibson-17&redirect=true)
 <!--
